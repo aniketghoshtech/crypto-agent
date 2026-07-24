@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Trading & Mentorship Platform",
+  "description": "An elite crypto trading mentorship and financial advisement platform featuring daily signals, portfolio strategy, live market analysis, client results, and interactive trade tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
